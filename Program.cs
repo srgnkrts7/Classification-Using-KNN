@@ -481,5 +481,4 @@ namespace ClassificationKNN
             }
         }
     }
-}                                                                                                                   //Sergen KARATAŞ 05150000637
-                                                                                                                    //Mert Gülbahçe  05150000684
+}                                                                                                                  
